@@ -2,4 +2,3 @@
 #
 b8e95ef9c3f045ec46cab1a1c8f78c3f554a775a                                           	saml/oran-gerrit-oran-osc-github-io-committers
 dadc5aae10819985d5198a12ee5128d734773d85                                           	ORAN-OSC Replication
-ldap:cn=oran-gerrit-oran-osc-github-io-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-oran-osc-github-io-committers
